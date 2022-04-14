@@ -1,0 +1,74 @@
+<style>
+
+
+#d {font-size: 40px;}
+
+#e {font-size: 38px;}
+
+#a {font-size: 36px;}
+
+#o {font-size: 34px;}
+
+#p {font-size: 32px;}
+
+#r {font-size: 30px;}
+
+#s {font-size: 28px;}
+
+#s {font-size: 26px;}
+
+
+body{
+    background-color: rgb(203, 243, 240);
+    padding: 3%;
+}
+
+h1 {
+    background-color: rgb(67, 170, 139);
+    text-align: center;
+    font-family: cursive;
+    
+}
+
+h2 {text-decoration: underline;
+    background-color: rgb(67, 170, 139)
+}
+
+p {text-align: justify;
+    font-family: monospace;}
+
+#Minha-Foto {
+    padding: 10px;
+    margin: 50px;
+    left: 100px;
+    background-color: aqua;
+
+}
+
+.sobreMim{
+    padding: 50px;
+    top: 200px;
+    width: 60%;
+    position: absolute;
+    right: 50px;
+}
+
+#Minhas-habilidades{
+    margin: 60px;
+}
+
+ul {
+    margin: 60px;
+}
+
+ul.habilidades li:nth-child(odd){
+    background-color: antiquewhite;
+    width: 300px;
+}
+}
+
+    
+
+
+
+</style>
